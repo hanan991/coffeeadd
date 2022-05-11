@@ -1,0 +1,199 @@
+@charset "UTF-8";
+.header {
+    background-color: hsla(359,69%,86%,1.00);
+    height: 50px;
+}
+main {
+    width: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 1080px;
+  z-index: 19;
+}
+.Nutrition_Specialist_ {
+  font-size: 60px;
+  font-family: "TraditionalArabic";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 500.929px;
+  top: 369.496px;
+  z-index: 18;
+}
+.Class {
+  font-size: 60px;
+  font-family: "TraditionalArabic";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 289.929px;
+  top: 374.5px;
+  z-index: 17;
+}
+.Home {
+  font-size: 60px;
+  font-family: "TraditionalArabic";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 41.886px;
+  top: 373px;
+  z-index: 16;
+}
+.The_coaches {
+  font-size: 60px;
+  font-family: "TraditionalArabic";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1100.63px;
+  top: 373.5px;
+  z-index: 15;
+}
+.Who_are_you {
+  font-size: 60px;
+  font-family: "TraditionalArabic";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1507.938px;
+  top: 369.496px;
+  z-index: 14;
+}
+.Rectangle_1 {
+  background-color: rgb(203, 156, 148);
+  position: absolute;
+  left: 0px;
+  top: 334px;
+  width: 1922px;
+  height: 143px;
+  z-index: 13;
+}
+._5506 {
+  background-image: url("5506.png");
+  position: absolute;
+  left: -181px;
+  top: -12px;
+  width: 684px;
+  height: 374px;
+  z-index: 11;
+}
+.Polygon_1 {
+  border-width: 14.69px;
+  border-color: rgb(203, 156, 148);
+  border-style: solid;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: -181px;
+  top: -99px;
+  width: 651.62px;
+  height: 431.62px;
+  z-index: 10;
+}
+._0565757070 {
+  font-size: 24px;
+  font-family: "TraditionalArabic";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1632.938px;
+  top: 1033.6px;
+  z-index: 7;
+}
+.rfl_ksa {
+  font-size: 24px;
+  font-family: "TraditionalArabic";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 834.006px;
+  top: 1030.761px;
+  z-index: 6;
+}
+.rfl_ksa {
+  font-size: 24px;
+  font-family: "TraditionalArabic";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 126.006px;
+  top: 1029.761px;
+  z-index: 5;
+}
+.Rectangle_1 {
+  background-color: rgb(203, 156, 148);
+  position: absolute;
+  left: 0px;
+  top: 1010px;
+  width: 1922px;
+  height: 73px;
+  z-index: 3;
+}
+.footer {
+    background-color: hsla(149,76%,76%,1.00);
+    height: 30px;
+}
+.main table {
+    border: thick double hsla(59,75%,73%,1.00);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+    background-color: hsla(358,43%,85%,1.00);
+    margin-left: 211px;
+    padding-left: 50px;
+    margin-bottom: 369px;
+}
+body nav a {
+    text-decoration: none;
+    color: hsla(359,86%,52%,1.00);
+    display: inline;
+    margin-left: 61px;
+    padding-top: 10px;
+    padding-left: 0px;
+    border: 1px solid hsla(0,13%,5%,1.00);
+}
+
+@media screen and (min-width:600px){
+	
+	.header {
+    background-color:yellow;
+    height: 10px;
+}
+	
+	
+}
+
+@media screen and (max-width:900px){
+	.header {
+    background-color:red;
+    height: 90px;
+}
+	
+}
+
+
+@media screen and (min-width:300px) and (max-width:600px){
+.header {
+    background-color:black;
+    height: 30px;
+}
+
+}

@@ -1,0 +1,38 @@
+@charset "UTF-8";
+body {
+    width: 1024px;
+    /* [disabled]background-color: hsla(57,71%,82%,1.00); */
+}
+h1  {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: italic;
+    text-align: center;
+    background-color: hsla(237,50%,80%,1.00);
+}
+p {
+    /* [disabled]background-color: hsla(38,68%,78%,1.00); */
+    border-color: hsla(294,65%,71%,1.00);
+    /* [disabled]border-style: dashed; */
+    border-width: thick;
+}
+.gh5 {
+    background-color: hsla(359,59%,85%,1.00);
+    height: 100px;
+}
+nav {
+    background-color: hsla(173,64%,84%,1.00);
+    height: 80px;
+}
+.gh5 img {
+    height: 100px;
+    text-align: right;
+    margin-left: 200px;
+}
+main {
+    background-color: hsla(218,70%,68%,1.00);
+    height: 500px;
+}
+footer {
+    background-color: hsla(130,73%,81%,1.00);
+    height: 50px;
+}
